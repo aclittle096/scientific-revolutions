@@ -1,1 +1,1 @@
-# scientific-revolutions
+# Thomas Kuhn's Concept of Scientific Revolutions
